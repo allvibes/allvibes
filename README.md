@@ -1,45 +1,48 @@
-<!-- HERO / TYPING EFFECT -->
+<!-- CINEMATIC HERO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F0FF&center=true&vCenter=true&width=700&lines=TSAR;Frontend+Engineer;Cinematic+Experience+Builder;AI+%2B+Automation+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=ELEBODA+SAMSON;Frontend+Engineer;Cinematic+Digital+Architect;AI+%2B+Automation+Systems;Building+Experiences+That+Feel+Alive" />
 </p>
 
-<h3 align="center">⚡ Precision • Performance • Presence</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Precision%20•%20Performance%20•%20Presence&fontSize=28&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 ---
 
 ## 🧠 Identity
 
-> I build **cinematic, high-performance digital experiences** that feel as powerful as they function.
+> I don’t just build apps — I engineer **experiences, systems, and digital presence**.
 
-* 🚀 Frontend Engineer (Next.js / React ecosystem)
-* 🎬 Focused on immersive UI, motion & storytelling
-* 🤖 Building AI-powered tools & automation systems
-* 🌍 Operating from Nigeria → building for global scale
+* ⚡ Frontend Engineer (Next.js • React • TypeScript)
+* 🎬 Crafting cinematic, immersive user interfaces
+* 🤖 Building AI-powered systems & automation workflows
+* 🧩 Designing products that merge **function + emotion**
+* 🌍 Nigeria → Global scale
 
 ---
 
 ## ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,tailwind,mongodb,firebase,git,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,tailwind,mongodb,firebase,git,figma,vercel" />
 </p>
 
 ---
 
-## 🔥 Featured Builds
+## 🚀 Flagship Builds
 
 ### 🎬 Cinematic Motivation Platform
 
-> Story-driven visual content engineered for engagement & retention
+> A high-retention storytelling system designed for emotional impact and viral engagement
 
-### 📦 Inventory Intelligence Dashboard
+### 📦 Inventory Intelligence System
 
-> Clean, scalable system for managing products, stock & insights
+> Scalable dashboard for product, stock, and operational flow management
 
 ### 🎵 AI Music Engine
 
-> Private streaming platform + intelligent music discovery system
+> Intelligent private streaming platform powered by AI-driven discovery
 
 ---
 
@@ -58,14 +61,14 @@
 
 ## 🎯 Current Focus
 
-* ⚙️ Advanced frontend architecture (Next.js)
-* 🎨 Motion systems & micro-interactions
-* 🤖 AI-integrated products (LangChain, automation)
-* 🚀 Scalable digital platforms
+* 🧠 Advanced frontend architecture (Next.js ecosystem)
+* 🎨 Motion design & interaction systems
+* 🤖 AI + automation (LangChain, agents, workflows)
+* 🚀 Building scalable, high-impact digital products
 
 ---
 
-## 🌐 Network
+## 🌐 Digital Presence
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -75,17 +78,32 @@
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Operating Principle
 
 <p align="center">
-  <strong>“Build systems. Create impact. Move different.”</strong>
+  <strong>“Build systems. Create impact. Engineer presence.”</strong>
 </p>
 
 ---
 
-<!-- SNAKE ANIMATION -->
+## 🐍 Contribution Flow
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+## 🧩 System Mindset
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <em>Not just writing code — building leverage.</em>
+</p>
+<!-- HERO / TYPING EFFECT -->
 
